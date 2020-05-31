@@ -1,2 +1,2 @@
-# CC
-Tool Pencari CC
+# Card-Number
+Cari cc dari termux
