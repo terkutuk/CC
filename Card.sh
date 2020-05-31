@@ -1,4 +1,4 @@
-﻿#!/data/data/com.termux
+#!/data/data/com.termux
 
 
 sleep 2
