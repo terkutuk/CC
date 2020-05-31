@@ -10,20 +10,20 @@ $white = "\033[0m";
 $date   = date('d-M-Y H:i');
 //system("clear");
 echo $red . "
-    ____ _         ____              _
-   _/ ___|        / ___|__ _ _ __ __| |
-   | |           | |   / _` | '__/ _` |
-   | |___   _    | |__| (_| | | | (_| |
-    \____| |_|    \____\__,_|_|  \__,_|
+___ ____ _____    ____              _
+|_ _/ ___|_   _|  / ___|__ _ _ __ __| |
+ | | |     | |   | |   / _` | '__/ _` |
+ | | |___  | |   | |__| (_| | | | (_| |
+|___\____| |_|    \____\__,_|_|  \__,_|
 
 ";
 echo $blue . "==================================";
 echo $bold . $green . "\nCoder   : php.Script Code
-Team    : Pakde Crew Script
+Team    : Pakde Security Script
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! Termasuk Gay \n";
+JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
